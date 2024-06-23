@@ -557,6 +557,9 @@
   ('urllib3.util.wait',
    'C:\\Users\\Ibrahim\\PycharmProjects\\curl\\venv\\Lib\\site-packages\\urllib3\\util\\wait.py',
    'PYMODULE'),
+  ('wave',
+   'C:\\Users\\Ibrahim\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\wave.py',
+   'PYMODULE'),
   ('zipfile',
    'C:\\Users\\Ibrahim\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\zipfile.py',
    'PYMODULE')])
